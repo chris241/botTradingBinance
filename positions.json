@@ -1,0 +1,32 @@
+{
+  "GLOBAL_PROFIT_USDT": 0,
+  "TRADES_BY_SYMBOL": {
+    "BTC/USDT": {
+      "profitTotalUSDT": 0,
+      "positionsOuvertes": [
+        {
+          "id": 1762086671342,
+          "prixAchat": 111000,
+          "quantite": 0.00009,
+          "timestamp": "2025-11-02T12:31:11.342Z"
+        }
+      ]
+    },
+    "USDC/USDT": {
+      "profitTotalUSDT": 0,
+      "positionsOuvertes": []
+    },
+    "ETH/USDT": {
+      "profitTotalUSDT": 0,
+      "positionsOuvertes": []
+    },
+    "SOL/USDT": {
+      "profitTotalUSDT": 0,
+      "positionsOuvertes": []
+    },
+    "ZEC/USDT": {
+      "profitTotalUSDT": 0,
+      "positionsOuvertes": []
+    }
+  }
+}
